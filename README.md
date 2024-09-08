@@ -1,2 +1,1 @@
 # pwsh-config
-# pwsh-config
